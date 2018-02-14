@@ -9,5 +9,5 @@ This repository shows the source code of smart contracts that we are using in [t
 ## Note
 
 The deployed CustomToken and MicroRaidenRightMeshChannels addresses are used as a part of our [RightMesh](https://developer.rightmesh.io/register_form.php) library. 
-Since applications running atop RightMesh library, the [Superpeer](https://github.com/RightMesh/Superpeer) does not work with other deployed instances of these smart contracts.
+Since applications running atop RightMesh library, the [Superpeer](https://github.com/RightMesh/Superpeer) does not work with other deployed smart contract instances.
 
